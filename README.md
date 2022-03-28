@@ -1,3 +1,4 @@
+
 ## My Trips
 
 > A simple website to show pinned places that you went or you want to go
